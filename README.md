@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20🖐&fontColor=ffffff&color=3298d5)
 
-# I'm Kaiser Coder, you're welcome my Github account
+# I'm Kaiser Coder, you're welcome to my Github account
 
 I am a young developer passionate about the web business and cautious about new technologies. I still have few stacks for now but in the near future it will grow 😀
 
