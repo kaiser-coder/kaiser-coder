@@ -34,3 +34,5 @@ I am a young developer passionate about the web business and cautious about new 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" height="50"/>
 </p>
+
+<a href="https://app.daily.dev/csarmiarintsoa"><img src="https://api.daily.dev/devcards/f8897693c2cd4c30886977de06a77ce9.png?r=63u" width="400" alt="César Miarintsoa's Dev Card"/></a>
